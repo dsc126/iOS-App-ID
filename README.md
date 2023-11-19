@@ -1,9 +1,3 @@
-<style>
-  .table{
-    text-align: center;
-  }
-</style>
-
 # iOS App ID
 ID for some specific apps on iOS
 
