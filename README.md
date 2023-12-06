@@ -13,6 +13,7 @@ ID for some specific apps on iOS
 |白描|2.1.6|828234469|
 |彩云天气Pro|5.0.10|836388018|
 |50音起源|1.3.5|835137462|
+|5-0 Radio Pro|60.0|50860098626|
 
 ## Common Apps
 ### Baidu Netdisk
