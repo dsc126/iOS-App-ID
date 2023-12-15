@@ -15,6 +15,8 @@ ID for some specific apps on iOS
 |50音起源|1.3.5|835137462|
 |5-0 Radio Pro|60.0|50860098626|
 |Police Scanner + Fire Radio|17.0|860098922|
+|HDR Max|3.0|852158420|
+|Christ In Song|3.7|858064441|
 
 ## Common Apps
 ### Baidu Netdisk
