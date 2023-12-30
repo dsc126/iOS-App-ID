@@ -17,6 +17,7 @@ ID for some specific apps on iOS
 |Police Scanner + Fire Radio|17.0|860098922|
 |HDR Max|3.0|852158420|
 |Christ In Song|3.7|858064441|
+|Sheet Music Scanner|4.22|861857954|
 
 ## Common Apps
 ### Baidu Netdisk
