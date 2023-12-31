@@ -29,7 +29,7 @@ ID for some specific apps on iOS
 |Christ In Song|3.7|858064441|
 |Sheet Music Scanner|4.22|861857954|
 
-## Common Apps
+## Specific Apps
 ### Baidu Netdisk
 | Version | Specification | ID |
 |--------| ---------|--------|
@@ -108,7 +108,11 @@ ID for some specific apps on iOS
 |8.0.22|iPhone13不支持7.0.15~8.0.22间版本，公众号阅读概率闪退|848965772|
 |8.0.24|iOS16.1不闪退|N/A|
 
+## Common Apps
 
+| App | Version | Specification |ID |
+|--------| :---------:|--------|------|
+|云闪付|9.1.9|无强制更新弹窗最低版|849379778|
 
 ## Reference
 https://www.zhihu.com/question/444349056/answer/1736687688
