@@ -28,6 +28,12 @@ ID for some specific apps on iOS
 |HDR Max|3.0|852158420|
 |Christ In Song|3.7|858064441|
 |Sheet Music Scanner|4.22|861857954|
+|ProCamera|17.2.2|862789662|
+|TouchRetouch|5.0.13|852912983|
+|地震预警|2023.1.1||
+|YaoYao|3.7.5||
+|Zeta Scrollshot|1.4|852827661|
+|DunDun|1.2.7|857227687|
 
 ## Specific Apps
 ### Baidu Netdisk
@@ -124,7 +130,7 @@ ID for some specific apps on iOS
 |9.20.0|搜同款，iOS15.4.1|840218043|
 |**9.23.0**|非活动图标|840805938|
 |10.11.10|深色模式|849227827|
-|10.12.20|此版以前有更新弹窗，首页商品点击后非瀑布流最后一版|
+|10.12.20|此版以前有更新弹窗，首页商品点击后非瀑布流最后一版|N/A|
 |10.13.0|无618图标，地区可设置为全球减少广告|N/A|
 
 
@@ -140,3 +146,4 @@ ID for some specific apps on iOS
 https://www.zhihu.com/question/444349056/answer/1736687688
 https://zhuanlan.zhihu.com/p/549148219
 https://app.diandian.com/
+https://qianling.pw/ios-app/
